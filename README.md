@@ -1,6 +1,8 @@
-<ol>1</ol>
-<ol>2</ol>
-<ol>3</ol>
+<ol>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+</ol>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/jeongjjy/github-readme-stats)
 
