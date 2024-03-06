@@ -1,8 +1,8 @@
-<ol>
-        <li>1</li>
-        <li>2</li>
-        <li>3</li>
-</ol>
+<ul>
+  <li>반갑습니다</li>
+  <li>저는 끊임없이 연구하고 노력하며 발전해나갑니다 </li>
+  <li>저는 나아가는 개발자 정재영입니다.</li>
+</ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/jeongjjy/github-readme-stats)
 
