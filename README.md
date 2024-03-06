@@ -1,5 +1,6 @@
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/jeongjjy/github-readme-stats)
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; text-align: center;">
